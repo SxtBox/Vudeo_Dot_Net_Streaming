@@ -1,8 +1,25 @@
 # Vudeo Dot Net Streaming APIS
 Provider https://vudeo.net
 
-# Hosted API
+# Hosted Main API
 https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis
+
+# Hosted Advanced API
+https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API
+
+    Convert Format
+    M3U Simple
+    M3U With Options
+    Kodi Simple
+    Kodi Regex
+    Json List With Xtream Codes Links And Direct MP4 Link
+    xtream_codes: "[HIDDEN IN DEMO MODE]",
+    json_stream: "[HIDDEN IN DEMO MODE]",
+
+    Advanced_API_V3.php
+    USE ?url=FULL JSON URL FROM YOUR ACCOUNT
+    https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API/APIS/Advanced_API_V3.php?url=YOUR_URL
+
 # API Description
     You can build playlist from url or from json file,
     you can also improvise this API on Your panel to play direct videos as mp4 or Web player.
