@@ -50,3 +50,8 @@ Provider https://vudeo.net
 
 # EXTRA DATA
     https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Extra_Datas/
+
+# Note for some MONKEYS
+    Do not waste your time if streaming from these apis,
+    all servers ips are filtered,these are only demos and streaming is not allowed for xtream codes panels or any android apps for your clients,
+    if you are interested to streaming you can buy them and put them on your server!!!
