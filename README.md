@@ -41,7 +41,7 @@ https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis
     KODI Playlist Builder by YOUR API KEY [VERY FAST MODE]
     https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Playlist_Builder/KODI_By_API.php
 
-# Note
+# Note Local Data
     All Json datas from local does not need api key, only file id and title
     File_ID = xxxxxx
     Title = My title
