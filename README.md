@@ -1,6 +1,8 @@
 # Vudeo Dot Net Streaming APIS
 Provider https://vudeo.net
 
+# Hosted API
+https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis
 # API Description
     You can build playlist from url or from json file,
     you can also improvise this API on Your panel to play direct videos as mp4 or Web player.
