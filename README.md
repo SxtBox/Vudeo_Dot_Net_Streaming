@@ -27,6 +27,11 @@ Test Video https://youtu.be/yJPMZW6inqU
     EXAMPLE GET BY FOLDER ID
     SOME GREEK VIDEOS
     https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API/APIS/Advanced_API_V3.php?folder_id=765
+    
+    SOME ALBANIAN VIDEOS
+    https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API/APIS/Advanced_API_V3.php?folder_id=778
+
+    ETC........
 
 # API Description
     You can build playlist from url or from json file,
