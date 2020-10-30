@@ -15,12 +15,14 @@ Test Video https://youtu.be/yJPMZW6inqU
     Kodi Simple
     Kodi Regex
     Json List With Xtream Codes Links And Direct MP4 Link
-    xtream_codes: "[HIDDEN IN DEMO MODE]",
-    json_stream: "[HIDDEN IN DEMO MODE]",
+    xtream_codes: [HIDDEN IN DEMO MODE]
+    json_stream: [HIDDEN IN DEMO MODE]
 
     Advanced_API_V3.php
-    USE ?url=FULL JSON URL FROM YOUR ACCOUNT
-    https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API/APIS/Advanced_API_V3.php?url=YOUR_URL
+    API Call: https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API/APIS/Advanced_API_V3.php
+    METHOD 1 ?api_key=YOUR_API_KEY&folder_id=YOUR_FOLDER_ID
+    METHOD 2 ?folder_id=YOUR_FOLDER_ID [FOR PAID USERS ONLY]
+    METHOD 3 ?url=YOUR_FULL_URL
 
 # API Description
     You can build playlist from url or from json file,
