@@ -24,6 +24,10 @@ Test Video https://youtu.be/yJPMZW6inqU
     METHOD 2 ?folder_id=YOUR_FOLDER_ID [FOR PAID USERS ONLY]
     METHOD 3 ?url=YOUR_FULL_URL
 
+    EXAMPLE GET BY FOLDER ID
+    SOME GREEK VIDEOS
+    https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Advanced_API/APIS/Advanced_API_V3.php?folder_id=765
+
 # API Description
     You can build playlist from url or from json file,
     you can also improvise this API on Your panel to play direct videos as mp4 or Web player.
