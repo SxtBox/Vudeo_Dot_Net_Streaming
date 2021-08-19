@@ -85,6 +85,9 @@ Test Video https://youtu.be/yJPMZW6inqU
     https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Extra_Datas/
 
 # Note for some MONKEYS
-    Do not waste your time if streaming from these apis,
-    all servers ips are filtered,these are only demos and streaming is not allowed for xtream codes panels or any android apps for your clients,
-    if you are interested to streaming you can buy them and put them on your server!!!
+    SOME OF YOU TRYING TO CONNECT SOME FAKE APPS IN THE API THAT WE HAVE ON OUR SERVERS
+    WE TOLERATE BUT WE CAN NOT ALLOW EACH OF YOU TO PLAY WITH US
+	THESE APIS ARE ONLY DEMOS, NONE OF YOU WILL BE ABLE TO GET CONNECTION FROM OUR API, TIME FOR YOU IS OVER
+    YOU MUST PURCHASE IT TO BE ABLE TO USE IT ON YOUR SERVERS.
+
+    DO NOT WASTE YOUR TIME!!!
