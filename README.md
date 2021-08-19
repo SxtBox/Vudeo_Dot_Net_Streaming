@@ -79,7 +79,7 @@ Test Video https://youtu.be/yJPMZW6inqU
 
 # Flexible Web Player
     EXAMPLE LIST
-    http://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Web_Player/index.php
+    https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Web_Player/index.php
 
 # EXTRA DATA
     https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Extra_Datas/
